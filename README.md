@@ -9,22 +9,22 @@ Use swagger framework unit tests for yolov3 object detection
 # Swagger-ui 
 --------------------------------
 
-![alt text](https://dev.azure.com/SE-Develop/6c9779dc-21a0-4509-ae29-f440d2e5d1db/_apis/git/repositories/1e3b088c-a5f0-4abc-90d2-40f2674d839c/items?path=%2Fgit_img%2F1.PNG&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=main&resolveLfs=true&%24format=octetStream&api-version=5.0)
+![alt text](https://github.com/yanxi853600/Yolov3-pytorch/blob/master/git_img/1.PNG)
 
 # 1 . Get Method : 
 > [Note] Get the name of your model and confirm if it has been uploaded.
 
-![alt text](https://dev.azure.com/SE-Develop/6c9779dc-21a0-4509-ae29-f440d2e5d1db/_apis/git/repositories/1e3b088c-a5f0-4abc-90d2-40f2674d839c/items?path=%2Fgit_img%2F2.PNG&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=main&resolveLfs=true&%24format=octetStream&api-version=5.0)
+![alt text](https://github.com/yanxi853600/Yolov3-pytorch/blob/master/git_img/2.PNG)
 
 
 # 2 . Post Method : 
 > [Note] Confirm your model name and upload the image file.
 
-![alt text](https://dev.azure.com/SE-Develop/6c9779dc-21a0-4509-ae29-f440d2e5d1db/_apis/git/repositories/1e3b088c-a5f0-4abc-90d2-40f2674d839c/items?path=%2Fgit_img%2F3.PNG&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=main&resolveLfs=true&%24format=octetStream&api-version=5.0)
+![alt text](https://github.com/yanxi853600/Yolov3-pytorch/blob/master/git_img/3.PNG)
 
 
 > [Note]  Floating lock pass and fail classification of object detection
-![alt text](https://dev.azure.com/SE-Develop/6c9779dc-21a0-4509-ae29-f440d2e5d1db/_apis/git/repositories/1e3b088c-a5f0-4abc-90d2-40f2674d839c/items?path=%2Fimages%2F7214ebba-8235-11eb-a959-c400ad491c49.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=main&resolveLfs=true&%24format=octetStream&api-version=5.0)
+![alt text](https://github.com/yanxi853600/Yolov3-pytorch/blob/master/images/2f464286-8235-11eb-b54e-c400ad491c49.png)
 
 # Installation
 --------------------------------
